@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Training on bioinformaics: RNA-Seq and Somatic-Seq</title>
+ <link href="https://bioinfo-dirty-jobs.github.io/master_course//atom.xml" rel="self"/>
+ <link href="https://bioinfo-dirty-jobs.github.io/master_course//"/>
+ <updated>2018-03-21T22:10:17+01:00</updated>
+ <id>https://bioinfo-dirty-jobs.github.io/master_course/</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>

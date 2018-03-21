@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:              test
+tagline:             test
+description:         trdt del jekyll
+url:                 'https://github.com/gentilinidavide/test_jekyl/'
+baseurl:             ''
+twitter_username:
+github_username:  gentilinidavide
+pages_url: https://github.com/gentilinidavide/test_jekyl
+github_url: https://github.com/gentilinidavide/test_jekyl
+
+# Custom vars
+version:             2.0
+
+# Build settings
+markdown: kramdown
