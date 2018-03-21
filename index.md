@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Welcome to my Tutorial on RNA-Seq and Somatic-seq          
+## Welcome to my test 
 ## [ Course 22-23 march 2018](https://bioinfo-dirty-jobs.github.io/master_course/)
 
 ___
@@ -24,20 +24,6 @@ ___
 {:/}
 
 
-### Authors and Contributors
-
- * [Polano Maurizio](mauriziopolano@blu.it)
 
 
-### Acknowledgement
  
-I would like to say thank you to  Gianmauro Cuccuru for the great help.
-
-### Contributing
-
-If you've found mistakes or any other kind of material you think should be shared through this repository you can:
-
-1. Fork this repository.
-2. Add your content on the appropriate page.
-3. Commit your changes.
-4. Submit a pull request.
